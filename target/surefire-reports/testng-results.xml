@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LocatSuite" duration-ms="10690" started-at="2016-10-05T08:15:56Z" finished-at="2016-10-05T08:16:07Z">
+    <groups>
+    </groups>
+    <test name="firstTest" duration-ms="10690" started-at="2016-10-05T08:15:56Z" finished-at="2016-10-05T08:16:07Z">
+      <class name="GooglePageTest">
+        <test-method status="PASS" signature="BeaforeClass()[pri:0, instance:GooglePageTest@1b410b60]" name="BeaforeClass" is-config="true" duration-ms="1536" started-at="2016-10-05T11:16:00Z" finished-at="2016-10-05T11:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeaforeClass -->
+        <test-method status="PASS" signature="TestSearch()[pri:0, instance:GooglePageTest@1b410b60]" name="TestSearch" duration-ms="1628" started-at="2016-10-05T11:16:02Z" finished-at="2016-10-05T11:16:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSearch -->
+        <test-method status="PASS" signature="BeaforeClass()[pri:0, instance:GooglePageTest@1b410b60]" name="BeaforeClass" is-config="true" duration-ms="1019" started-at="2016-10-05T11:16:04Z" finished-at="2016-10-05T11:16:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeaforeClass -->
+        <test-method status="PASS" signature="TestSerch2()[pri:0, instance:GooglePageTest@1b410b60]" name="TestSerch2" duration-ms="1317" started-at="2016-10-05T11:16:05Z" finished-at="2016-10-05T11:16:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSerch2 -->
+        <test-method status="PASS" signature="BeaforeClass()[pri:0, instance:GooglePageTest@1b410b60]" name="BeaforeClass" is-config="true" duration-ms="807" started-at="2016-10-05T11:16:06Z" finished-at="2016-10-05T11:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeaforeClass -->
+        <test-method status="PASS" signature="titleVerifyTest()[pri:0, instance:GooglePageTest@1b410b60]" name="titleVerifyTest" duration-ms="55" started-at="2016-10-05T11:16:07Z" finished-at="2016-10-05T11:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleVerifyTest -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:GooglePageTest@1b410b60]" name="AfterTest" is-config="true" duration-ms="12" started-at="2016-10-05T11:16:07Z" finished-at="2016-10-05T11:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:UApaySiteCheckTest@2ca26d77]" name="AfterTest" is-config="true" duration-ms="16" started-at="2016-10-05T11:16:07Z" finished-at="2016-10-05T11:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- GooglePageTest -->
+      <class name="UApaySiteCheckTest">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:UApaySiteCheckTest@2ca26d77]" name="BeforeTest" is-config="true" duration-ms="4254" started-at="2016-10-05T11:15:56Z" finished-at="2016-10-05T11:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="TestMainPageTitle()[pri:0, instance:UApaySiteCheckTest@2ca26d77]" name="TestMainPageTitle" duration-ms="16" started-at="2016-10-05T11:16:00Z" finished-at="2016-10-05T11:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMainPageTitle -->
+      </class> <!-- UApaySiteCheckTest -->
+    </test> <!-- firstTest -->
+  </suite> <!-- LocatSuite -->
+</testng-results>
